@@ -1,7 +1,7 @@
 use std::env;
 use std::process;
 
-use minigrep::{run, Config};
+use minigrep_muh::{run, Config};
 
 fn main() {
     // let args: Vec<String> = env::args().collect();
