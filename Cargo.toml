@@ -1,7 +1,9 @@
 [package]
-name = "minigrep"
+name = "minigrep_muh"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+description = "A command line program that takes in a query and search for it in a file"
 
 [dependencies]
 
